@@ -12,8 +12,6 @@
 ![Docker](https://img.shields.io/badge/-Docker-000000?style=for-the-badge&logo=Docker&logoColor=2496ED)
 ![Django](https://img.shields.io/badge/-Django-2e0917?style=for-the-badge&logo=Django&logoColor=092E20)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=MySql&logoColor=ffffff)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-ffffff?style=for-the-badge&logo=PostgreSQL&logoColor=4169E1)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-0090ff?style=for-the-badge&logo=TensorFlow&logoColor=FF6F00)
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=for-the-badge&logo=HTML5&logoColor=E34F26)
 ![CSS](https://img.shields.io/badge/-CSS3-1535B6?style=for-the-badge&logo=CSS3&logoColor=1572B6)
 Folow Me
