@@ -14,4 +14,9 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=MySql&logoColor=ffffff)
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=for-the-badge&logo=HTML5&logoColor=E34F26)
 ![CSS](https://img.shields.io/badge/-CSS3-1535B6?style=for-the-badge&logo=CSS3&logoColor=1572B6)
-Folow Me
+
+## Folow Me
+[![VK](https://img.shields.io/badge/-VK-000000?style=for-the-badge&logo=VK)](https://vk.com/lyadurak)
+[![Telegram](https://img.shields.io/badge/-Telegram-ffffff?style=for-the-badge&logo=Telegram)](https://t.me/olligator2000)
+[![WhatsApp](https://img.shields.io/badge/-WhatsApp-345E39?style=for-the-badge&logo=WhatsApp)](https://api.whatsapp.com/send?phone=79242597580)
+[![Discord](https://img.shields.io/badge/-Discord-545659?style=for-the-badge&logo=Discord)](https://discord.gg/m6EAW7TfQX)
