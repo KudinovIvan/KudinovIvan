@@ -8,7 +8,7 @@
 ![Python](https://img.shields.io/badge/-Python-c9ae36?style=for-the-badge&logo=python)
 ![Java](https://img.shields.io/badge/-Java-d63d29?style=for-the-badge&logo=Java&logoColor=ffffff)
 ![C#](https://img.shields.io/badge/-C_Sharp-A42AF3?style=for-the-badge&logo=CSharp)
-![Js](https://img.shields.io/badge/-Java_Script-4a61cb?style=for-the-badge&logo=JavaScript)
+![Js](https://img.shields.io/badge/-JS-4a61cb?style=for-the-badge&logo=JavaScript)
 ![Docker](https://img.shields.io/badge/-Docker-000000?style=for-the-badge&logo=Docker&logoColor=2496ED)
 ![Django](https://img.shields.io/badge/-Django-2e0917?style=for-the-badge&logo=Django&logoColor=092E20)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=MySql&logoColor=ffffff)
