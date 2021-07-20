@@ -23,3 +23,5 @@ Now I am actively studying python and I think to develop in this direction.
 [![Telegram](https://img.shields.io/badge/-Telegram-ffffff?style=for-the-badge&logo=Telegram)](https://t.me/olligator2000)
 [![WhatsApp](https://img.shields.io/badge/-WhatsApp-345E39?style=for-the-badge&logo=WhatsApp)](https://api.whatsapp.com/send?phone=79242597580)
 [![Discord](https://img.shields.io/badge/-Discord-545659?style=for-the-badge&logo=Discord)](https://discord.gg/m6EAW7TfQX)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KudinovIvan&layout=compact&theme=radical)](https://github.com/KudinovIvan/github-readme-stats)
